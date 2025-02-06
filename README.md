@@ -36,7 +36,7 @@ Under 'System Variables' find 'Path', click on 'Edit' and add the path to the lo
 Add also the python script folder:
 C:\Users\YourName\AppData\Local\Programs\Python\Python3Xx\Scripts
 
-3] Cick on 'OK', restart the computer, test if python.exe is find by the system by tiping in the terminal (the python version should be displayed):
+3] Cick on 'OK', restart the computer, test if python.exe is find by the system by tiping in the terminal (the Python version should be displayed):
 
 ```
 python --version
